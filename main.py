@@ -1,3 +1,7 @@
+#from CSDN: https://blog.csdn.net/weixin_44299786/article/details/132155491
+
+
+
 # 利用PIL库加载图像，并查看图像形状以及通道数
 import numpy as np
 from PIL import Image
